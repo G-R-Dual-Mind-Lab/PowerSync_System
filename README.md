@@ -12,5 +12,5 @@ The project has been implemented in MATLAB Simulink, utilising the SimEvents, St
 ![alt text](https://github.com/iulianoroberto/CPS_PowerSync_System/blob/main/Images/SoC1_pushSum1.jpg)
 
 
-The project has been developed by Gabriele Ciccoteli and Roberto Iuliano.
+The project has been developed by Gabriele Ciccotelli and Roberto Iuliano.
 
